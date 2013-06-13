@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+#sidebar{
+    display: inline-block;
+    width: 200px;
+}
+
+#main{
+    display: inline-block;
+    width: 1000px;
+}
+
+label
+{
+    display: inline-block;
+    width: 60px;
+    text-align: left;
+    margin-right: 10px;
+}
+
+.flowers, .dates
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}​
+
